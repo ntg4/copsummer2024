@@ -1,0 +1,11 @@
+Common Causes of Segmentation Fault:
+
+1. Forgetting to use "&" on the arguments to scanf
+
+2. Forgetting to use "&" on the arguments to function as
+pointers
+
+3. Incorrect use of the "&" (address of) and "*" (indirection)
+operators
+
+4. Failure to initialize a pointer before accessing it
